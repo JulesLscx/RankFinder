@@ -1,0 +1,10 @@
+new 5869
+one 5096
+life 4503
+book 4434
+world 3852
+story 2726
+first 2697
+author 2637
+times 2415
+novel 2388
